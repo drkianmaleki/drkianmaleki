@@ -1,15 +1,63 @@
-## Hi there 👋
+![Kian Maleki GitHub Banner](./banner2.png)
 
-I’m **Dr. Kian Maleki**, a PhD physicist focused on **data science, machine learning, and scientific computing**.
+# Hi, I’m Kian Maleki, PhD 👋
 
-My work combines rigorous quantitative reasoning with practical AI engineering. I build and evaluate machine learning systems, retrieval-augmented generation workflows, document-processing pipelines, and model-evaluation tools.
+I’m a **PhD physicist turned AI/ML builder** who enjoys turning mathematical ideas into useful, testable, and well-documented software.
 
-I have a strong foundation in the mathematics behind machine learning, including model behavior, optimization, neural networks, statistical reasoning, and performance evaluation. I enjoy comparing modeling approaches, studying their trade-offs, and identifying which method is most appropriate for a given problem rather than applying algorithms blindly.
+My work sits at the intersection of **machine learning, scientific computing, document intelligence, retrieval-augmented generation, and model evaluation**. I like building systems that are not only accurate, but also interpretable, reproducible, and useful in real-world workflows.
 
-I’m especially interested in turning research ideas into reliable, reproducible, and well-documented software.
+---
 
-**Focus areas:** Machine Learning · Neural Networks · Model Optimization · RAG Systems · MLOps · Scientific Computing · Model Evaluation · Document AI
+## What I build
 
-<p align="center">
-  <img src="banner.png" alt="Dr. Kian Maleki — Data Science and Machine Learning" width="50%" />
-</p>
+- **AI and machine learning systems** for classification, prediction, and evaluation  
+- **RAG and document intelligence tools** for extracting, searching, and reasoning over complex documents  
+- **Model-evaluation frameworks** that go beyond single-number metrics  
+- **Scientific computing projects** inspired by physics, optimization, and numerical modeling  
+- **Portfolio-ready software** with clean structure, documentation, and practical demos  
+
+---
+
+## Selected projects
+
+### PharmaDoc-AI  
+A document-intelligence and RAG system for pharmaceutical-style documents, combining extraction, retrieval, OCR-aware workflows, and chatbot-style interaction.
+
+### Ambiguity Framework  
+A classifier-evaluation framework that studies ambiguity across decision thresholds instead of relying on one fixed threshold.
+
+### Sequence Acceleration Benchmark  
+A research-style benchmark exploring convergence acceleration and finite-horizon learning-curve prediction for gradient boosting models.
+
+---
+
+## Current focus
+
+I am currently focused on:
+
+- Retrieval-augmented generation  
+- Document AI and OCR robustness  
+- Applied machine learning systems  
+- AI agents and tool-using workflows  
+- Model reliability, evaluation, and uncertainty  
+- Turning research ideas into clean, reusable software  
+
+---
+
+## Background
+
+Before moving deeply into AI and machine learning, I worked in theoretical and computational physics, including quantum materials, molecular transport, open quantum systems, and numerical modeling.
+
+That background shapes how I approach AI: I care about mechanisms, assumptions, failure modes, and whether a model actually behaves the way we think it does.
+
+---
+
+## Connect
+
+- Website: https://drkianmaleki.com  
+- LinkedIn: https://www.linkedin.com/in/kian-maleki-phd  
+- ORCID: https://orcid.org/0000-0002-0317-8766  
+
+---
+
+> I build intelligent systems with math in the engine room and usability on the dashboard.
