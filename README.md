@@ -10,6 +10,8 @@ My work sits at the intersection of **machine learning, scientific computing, do
 
 ## What I build
 
+*I build intelligent systems with math in the engine room and usability on the dashboard.* 
+
 - **AI and machine learning systems** for classification, prediction, and evaluation  
 - **RAG and document intelligence tools** for extracting, searching, and reasoning over complex documents  
 - **Model-evaluation frameworks** that go beyond single-number metrics  
@@ -60,4 +62,4 @@ That background shapes how I approach AI: I care about mechanisms, assumptions, 
 
 ---
 
-> I build intelligent systems with math in the engine room and usability on the dashboard.
+
