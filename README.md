@@ -60,6 +60,3 @@ That background shapes how I approach AI: I care about mechanisms, assumptions, 
 - LinkedIn: https://www.linkedin.com/in/kian-maleki-phd  
 - ORCID: https://orcid.org/0000-0002-0317-8766  
 
----
-
-
