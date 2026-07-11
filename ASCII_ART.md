@@ -1,8 +1,6 @@
 # ASCII Art
 
-A text-based version of my profile artwork.
 
-```text
  ```text
 
                                                               +++                                                             
