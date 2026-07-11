@@ -1,4 +1,6 @@
-![Kian Maleki GitHub Banner](./banner6.png)
+<p align="center">
+  <img src="./banner6.png" alt="Kian Maleki GitHub Banner">
+</p>
 
 # Hi, I’m Kian Maleki, PhD 👋
 
@@ -58,5 +60,6 @@ That background shapes how I approach AI: I care about mechanisms, assumptions, 
 
 - Website: https://drkianmaleki.com  
 - LinkedIn: https://www.linkedin.com/in/kian-maleki-phd  
-- ORCID: https://orcid.org/0000-0002-0317-8766  
+- ORCID: https://orcid.org/0000-0002-0317-8766
 
+ 
