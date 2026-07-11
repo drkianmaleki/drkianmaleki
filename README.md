@@ -1,4 +1,4 @@
-![Kian Maleki GitHub Banner](./banner3.png)
+![Kian Maleki GitHub Banner](./banner6.png)
 
 # Hi, I’m Kian Maleki, PhD 👋
 
