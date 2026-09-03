@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="./banner6.png" alt="Kian Maleki GitHub Banner">
-</p>
 
-# Hi, I’m Kian Maleki, PhD 👋
+# Hi, I’m Kian Maleki, PhD
 
-I’m a **PhD physicist turned AI/ML builder** who enjoys turning mathematical ideas into useful, testable, and well-documented software.
+I’m a **PhD physicist turned AI-safety researcher and ML builder** who enjoys turning mathematical ideas into useful, testable, and well-documented software.
 
-My work sits at the intersection of **machine learning, scientific computing, document intelligence, retrieval-augmented generation, and model evaluation**. I like building systems that are not only accurate, but also interpretable, reproducible, and useful in real-world workflows.
+My work sits at the intersection of **AI safety, machine learning, scientific computing, document intelligence, retrieval-augmented generation, and model evaluation**. I like building systems that are not only accurate, but also interpretable, reproducible, and useful in real-world workflows.
 
 ---
 
@@ -14,6 +11,7 @@ My work sits at the intersection of **machine learning, scientific computing, do
 
 *I build intelligent systems with math in the engine room and usability on the dashboard.* 
 
+- **AI-safety experiments** probing chain-of-thought faithfulness and reasoning-model behavior  
 - **AI and machine learning systems** for classification, prediction, and evaluation  
 - **RAG and document intelligence tools** for extracting, searching, and reasoning over complex documents  
 - **Model-evaluation frameworks** that go beyond single-number metrics  
@@ -23,6 +21,9 @@ My work sits at the intersection of **machine learning, scientific computing, do
 ---
 
 ## Selected projects
+
+### Decided Mid-Thought  
+A pre-registered causal study of chain-of-thought faithfulness in a reasoning model: prefix interventions and 500 resampled continuations test whether visible reasoning reveals when the final answer becomes determined.
 
 ### PharmaDoc-AI  
 A document-intelligence and RAG system for pharmaceutical-style documents, combining extraction, retrieval, OCR-aware workflows, and chatbot-style interaction.
@@ -39,6 +40,7 @@ A research-style benchmark exploring convergence acceleration and finite-horizon
 
 I am currently focused on:
 
+- Empirical AI safety: chain-of-thought faithfulness and reasoning-model evaluation  
 - Retrieval-augmented generation  
 - Document AI and OCR robustness  
 - Applied machine learning systems  
@@ -52,7 +54,7 @@ I am currently focused on:
 
 Before moving deeply into AI and machine learning, I worked in theoretical and computational physics, including quantum materials, molecular transport, open quantum systems, and numerical modeling.
 
-That background shapes how I approach AI: I care about mechanisms, assumptions, failure modes, and whether a model actually behaves the way we think it does.
+That background shapes how I approach AI: I care about mechanisms, assumptions, failure modes, and whether a model actually behaves the way we think it does. That last question is now the center of my AI-safety research.
 
 ---
 
